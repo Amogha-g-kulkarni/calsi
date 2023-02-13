@@ -11,3 +11,81 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main{
+align-items: center;
+padding-left: 13cm;
+padding-top: 3cm;
+}
+.button {
+  background-color: #06870b; /* Green */
+  border: none;
+  color: rgb(32, 12, 12);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 2cm;
+  width: 2cm;
+  
+}
+.input{
+  width: 4.5cm;
+  background-color: #c2f4c5; /* Green */
+  border: none;
+  color: rgb(175, 7, 7);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 1cm;
+  width: 7cm;
+}
+.input1{
+  width: 4.5cm;
+  background-color: #c2f4c5; /* Green */
+  border: none;
+  color: rgb(175, 7, 7);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 1cm;
+  width: 7cm;
+}
+
+.button1 {
+  background-color: #06870b; /* Green */
+  border: none;
+  color: rgb(32, 12, 12);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 2cm;
+  width: 2cm;
+  
+}
+
+  .button1:visited{
+    background-image:none;
+    background-color: red;
+    font-size: 35px;
+    border: 10px dashed black;
+    color: black;
+  }
